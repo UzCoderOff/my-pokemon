@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.moves {
+  height: 400px;
+  overflow-y: scroll;
+}
